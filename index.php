@@ -1,3 +1,4 @@
+<?php date_default_timezone_set('America/Los_Angeles'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -183,7 +184,7 @@
                     <p>My name is Keith, from Hong Kong. I love playing snooker, Liverpool FC and coding!</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Skills: html, js, css, php, mysql, aws, ios</p>
+                    <p>Skills: html, js, css, php, mysql, aws, ojective-c</p>
                 </div>
                 <!--<div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
