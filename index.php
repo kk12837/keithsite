@@ -21,7 +21,7 @@
     <meta name="author" content="">
 
     <title>Keith Kong</title>
-
+    <link rel="shortcut icon" type="image/png" href="/img/favicon.ico"/>
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
