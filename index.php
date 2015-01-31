@@ -85,7 +85,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
+                    <img class="img-responsive" src="img/profile2.png" alt="">
                     <div class="intro-text">
                         <span class="name">Keith Kong</span>
                         <hr class="star-light">
@@ -279,10 +279,10 @@
 <!--                            </li>-->
                         </ul>
                     </div>
-                    <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
-                    </div>
+<!--                    <div class="footer-col col-md-4">-->
+<!--                        <h3>About Freelancer</h3>-->
+<!--                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>-->
+<!--                    </div>-->
                 </div>
             </div>
         </div>
