@@ -182,10 +182,11 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>My name is Keith, from Hong Kong. I love playing snooker, Liverpool FC and coding!</p>
+                    <p>A Liverpool Fan and a Snooker Player.. am trying so hard to get 50+ breaking. :D
+                        I had my first snooker lesson in <a href="http://www.boxhillrsl.com.au/" target="_blank" style="color:#FFFFFF;">BOX HILL RSL</a></p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Skills: html, js, css, php, mysql, aws, ojective-c</p>
+                    <p>Skills: HTML, Javascript, jQuery, css, PHP, mySQL, AWS, git, Facebook script, ojective-c</p>
                 </div>
                 <!--<div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
@@ -355,7 +356,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Website Hosting</h2>
+                            <h2>PHP & Web Service</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/phpandweb.png" class="img-responsive img-centered" alt="">
                             <p>Offering One page website hosting with google analytic tracking system.</p>
@@ -392,7 +393,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Magento</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/magento.png" class="img-responsive img-centered" alt="">
                             <p>As working in a magento team, I xperience with optimazing web performance and developing magento site.</p>
