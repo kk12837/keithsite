@@ -17,8 +17,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="A developer from Hong Kong, specialized in PHP, Magento and IOS development.">
+    <meta name="keywords" content="IOS developer, php developer, magento developer, hong kong developer">
+    <meta name="author" content="keith kong">
 
     <title>Keith Kong</title>
     <link rel="shortcut icon" type="image/png" href="/img/favicon.ico"/>
@@ -113,7 +114,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/ios.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -123,7 +124,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/phpandweb.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -133,10 +134,10 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/magento.png" class="img-responsive" alt="">
                     </a>
                 </div>
-                <div class="col-sm-4 portfolio-item">
+                <!--<div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -165,7 +166,7 @@
                         </div>
                         <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
                     </a>
-                </div>
+                </div>-->
             </div>
         </div>
     </section>
@@ -317,24 +318,24 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>IOS Development</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
+                            <img src="img/portfolio/ios.png" class="img-responsive img-centered" alt="">
+                            <p>Hungry Pig - Coming Soon!</p>
+<!--                            <ul class="list-inline item-details">-->
+<!--                                <li>Client:-->
+<!--                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>-->
+<!--                                    </strong>-->
+<!--                                </li>-->
+<!--                                <li>Date:-->
+<!--                                    <strong><a href="http://startbootstrap.com">April 2014</a>-->
+<!--                                    </strong>-->
+<!--                                </li>-->
+<!--                                <li>Service:-->
+<!--                                    <strong><a href="http://startbootstrap.com">Web Development</a>-->
+<!--                                    </strong>-->
+<!--                                </li>-->
+<!--                            </ul>-->
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -354,23 +355,23 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Website Hosting</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/phpandweb.png" class="img-responsive img-centered" alt="">
+                            <p>Offering One page website hosting with google analytic tracking system.</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                <li>Price:
+                                    <strong> 14.99USD / month
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
+<!--                                <li>Date:-->
+<!--                                    <strong><a href="http://startbootstrap.com">April 2014</a>-->
+<!--                                    </strong>-->
+<!--                                </li>-->
+<!--                                <li>Service:-->
+<!--                                    <strong><a href="http://startbootstrap.com">Web Development</a>-->
+<!--                                    </strong>-->
+<!--                                </li>-->
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
@@ -393,20 +394,14 @@
                         <div class="modal-body">
                             <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/magento.png" class="img-responsive img-centered" alt="">
+                            <p>As working in a magento team, I xperience with optimazing web performance and developing magento site.</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Projects:
+                                    <a href="http://jets.com.au" target="_blank"><img src="img/magento/jets.gif" alt="jets.com.au"></a>
+                                    <a href="http://carmodsaustralia.com.au" target="_blank"><img src="img/magento/carmods.png" alt="carmodsaustralia.com.au"></a>
+                                    <a href="http://www.grandcucina.com.au" target="_blank"><img src="img/magento/gc.jpg" alt="grandcucina.com.au"></a>
+                                    <a href="http://www.gifte.com.au" target="_blank"><img src="img/magento/gifte.png" alt="gifte.com.au"></a>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
