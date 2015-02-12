@@ -17,11 +17,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A developer from Hong Kong, specialized in PHP, Magento and IOS development.">
+    <meta name="description" content="An IOS and Web developer from Hong Kong, specialized in PHP, Magento and IOS development.">
     <meta name="keywords" content="IOS developer, php developer, magento developer, hong kong developer">
     <meta name="author" content="keith kong">
 
-    <title>Keith Kong</title>
+    <title>Keith Kong | IOS and Web Developer</title>
     <link rel="shortcut icon" type="image/png" href="/img/favicon.ico"/>
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
